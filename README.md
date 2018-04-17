@@ -1,6 +1,6 @@
 # Driver-Drowsiness-Detection
 
-This code is the python implementation of the paper [Real-Time Eye Blink Detection Using Facial Landmarks](http://vision.fe.uni-lj.si/cvww2016/proceedings/papers/05.pdf) to detect Driver Drowsiness.
+This code is the python implementation of the paper [Real-Time Eye Blink Detection Using Facial Landmarks](http://vision.fe.uni-lj.si/cvww2016/proceedings/papers/05.pdf) to detect Driver Drowsiness and raise an alert.
 
 # Prerequisites
 
